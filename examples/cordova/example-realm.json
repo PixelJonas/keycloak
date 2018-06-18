@@ -46,7 +46,7 @@
             "clientId": "cordova",
             "enabled": true,
             "publicClient": true,
-            "redirectUris": ["http://localhost"],
+            "redirectUris": ["https://tudan.de/keycloak/*"],
             "webOrigins": ["localhost"]
         }
     ],
